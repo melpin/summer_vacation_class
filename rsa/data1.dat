@@ -1,0 +1,9 @@
+pownum devide 257
+256 1 
+pownum devide 353
+256 64 32 1 
+origin data : 119
+p = 31, q = 37, e = 257, n = 1147
+d value : 353
+crypto val : 874
+message : 119

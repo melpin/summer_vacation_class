@@ -1,0 +1,51 @@
+plain text message
+{10, 9}
+nb = 11, k = 9, e11 = 1 G = {2, 7}
+calc public key
+add pointing : {5, 2}
+add pointing : {8, 3}
+add pointing : {10, 2}
+add pointing : {3, 6}
+add pointing : {7, 9}
+add pointing : {7, 2}
+add pointing : {3, 5}
+add pointing : {10, 9}
+add pointing : {8, 8}
+add pointing : {5, 9}
+result
+{5, 9}
+encrypte message
+add pointing : {5, 2}
+add pointing : {8, 3}
+add pointing : {10, 2}
+add pointing : {3, 6}
+add pointing : {7, 9}
+add pointing : {7, 2}
+add pointing : {3, 5}
+add pointing : {10, 9}
+add pointing : {10, 9}
+add pointing : {7, 2}
+add pointing : {3, 6}
+add pointing : {8, 3}
+add pointing : {2, 7}
+add pointing : {2, 4}
+add pointing : {8, 8}
+add pointing : {3, 5}
+add pointing : {10, 2}
+result
+{10, 9}
+{10, 2}
+decryption message
+add pointing : {3, 6}
+add pointing : {2, 7}
+add pointing : {8, 8}
+add pointing : {7, 9}
+add pointing : {5, 2}
+add pointing : {5, 9}
+add pointing : {7, 2}
+add pointing : {8, 3}
+add pointing : {2, 4}
+add pointing : {3, 5}
+add pointing : {10, 9}
+result
+{10, 9}

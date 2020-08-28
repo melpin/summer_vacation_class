@@ -1,0 +1,12 @@
+plain text 0010010001
+
+encryption
+ip의 결과물 :0000011100
+ip-1의 결과물 :0011010101
+encryption result : 0011010101
+
+decryption
+ip의 결과물 :0011011100
+ip-1의 결과물 :0010010001
+decryption result : 0010010001
+
